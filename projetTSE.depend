@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1544285035 source:d:\codes\projettse\main.c
+	<windows.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+
